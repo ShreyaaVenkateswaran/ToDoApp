@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="square">Expand</string>
+    <string name="done">Done</string>
+    <string name="event">Event</string>
+    <string name="privacy">Privacy</string>
+    <string name="trash">Restore</string>
+</resources>
+
